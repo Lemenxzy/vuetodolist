@@ -1,4 +1,4 @@
-# todolist 704694231@qq.com
+# todolist
 
 > love todolist
 
