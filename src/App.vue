@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style  lang="sass" rel="stylesheet/sass">
-
+  html,body,#app
+    height: 100%
+    @import "common/fonts/style.css"
 </style>
